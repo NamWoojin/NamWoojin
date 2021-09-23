@@ -1,7 +1,7 @@
 <div align=center>
 
 <h1>Hi there👋, I'm Woojin!</h1>
-<h3>A Passionate Frontend Developer</h3>
+<h3>A Passionate Developer</h3>
 
 
  
